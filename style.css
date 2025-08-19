@@ -1,0 +1,37 @@
+body {
+    background-image: url("https://hc-cdn.hel1.your-objectstorage.com/s/v3/b5fb4ca4392895cbcc06f4079d07dc67d2f0cabe_screenshot_2025-08-19_at_5.47.40_pm.png");
+    text-align: center;
+}
+
+.tanjiro {
+    border-radius: 20px;
+    width: 750px;
+}
+
+.tanjiro:hover{
+    transform: scale(1.5,1.5);
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+.kim {
+    color: red;
+    text-align: right;
+    text-shadow: darkred;
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+pre{
+    font-size: 30px;
+    color: orangered;
+}
+
+.char{
+    text-align: left;
+    font-size: 20px;
+    color: bisque;
+}
